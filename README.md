@@ -16,13 +16,21 @@
 
 ## Мой стек
 <img src="js.png" alt="JavaScript" width="40px">
+&nbsp;
 <img src="react.png" alt="React.js" width="40px">
+&nbsp;
 <img src="node.png" alt="Node.js" width="40px">
+&nbsp;
 <img src="express.png" alt="Express.js" width="40px">
+&nbsp;
 <img src="html.png" alt="HTML" width="40px">
+&nbsp;
 <img src="csS.png" alt="CSS" width="40px">
+&nbsp;
 <img src="mongodb.png" alt="Mongodb" width="40px">
+&nbsp;
 <img src="webpack.png" alt="Webpack" width="40px">
+&nbsp;
 
 ## Моя статистика
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mariarez&theme=default)
